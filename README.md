@@ -118,43 +118,49 @@ The static website is now served directly from the Docker container through the 
 
 ## 1️⃣ Pull Nginx Image
 
-![Pull Nginx](screenshots/01-pull-nginx.png)
+<img width="1918" height="338" alt="Screenshot 2026-07-13 194401" src="https://github.com/user-attachments/assets/92df72e8-6e8c-4d38-88fa-72da92bf2421" />
+
 
 ---
 
 ## 2️⃣ Run Nginx Container
 
-![Run Container](screenshots/02-run-container.png)
+<img width="1857" height="967" alt="Screenshot 2026-07-13 194551" src="https://github.com/user-attachments/assets/ee4577c5-7f27-47b9-8164-ae231378dd84" />
+
 
 ---
 
 ## 3️⃣ Build Custom Docker Image
 
-![Docker Build](screenshots/03-docker-build.png)
+<img width="1918" height="691" alt="Screenshot 2026-07-13 201539" src="https://github.com/user-attachments/assets/f3526924-6116-4310-b021-1117a005eebe" />
+
 
 ---
 
 ## 4️⃣ Verify Docker Images
 
-![Docker Images](screenshots/04-docker-images.png)
+<img width="1918" height="96" alt="Screenshot 2026-07-13 201557" src="https://github.com/user-attachments/assets/10ee0f9e-2d7b-4a8a-be57-feec581912f5" />
+
 
 ---
 
 ## 5️⃣ View Docker Logs
 
-![Docker Logs](screenshots/05-docker-logs.png)
+<img width="1907" height="928" alt="Screenshot 2026-07-13 194747" src="https://github.com/user-attachments/assets/10a68670-1082-4c23-b978-361255463f92" />
+
 
 ---
 
 ## 6️⃣ Verify Website Files Inside Container
+<img width="1892" height="112" alt="Screenshot 2026-07-13 202116" src="https://github.com/user-attachments/assets/7e1b4d70-c3f5-4810-b2fe-566e9fb236ae" />
 
-![Docker Exec](screenshots/06-docker-exec.png)
 
 ---
 
 ## 7️⃣ Dockerized Website Running Successfully
 
-![Website Output](screenshots/07-website.png)
+<img width="1918" height="1013" alt="Screenshot 2026-07-13 202620" src="https://github.com/user-attachments/assets/5e2f7645-613a-48a0-9d80-a61d7988a22d" />
+
 
 ---
 
@@ -265,9 +271,7 @@ Through this project I gained practical experience with:
 
 # 👨‍💻 Author
 
-## Abbas Baniyan
-
-AWS Cloud & DevOps Engineer
+## Abbas Baniyan AWS Cloud & DevOps Engineer
 
 ### Skills
 
